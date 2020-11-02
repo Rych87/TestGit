@@ -8,5 +8,6 @@ namespace TestGit
 {
     class B
     {
+        int z;
     }
 }
